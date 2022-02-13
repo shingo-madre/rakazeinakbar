@@ -5,10 +5,10 @@ Saya seorang **Web Developer Independen** yang saat ini berada di Semester 6 **T
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shingo-madre/) ku ya.
 
-  - ❤  Avid Laravel Lover
-  - ✌  PHP and Dart Anthusiast
-  - ✨ Web and Mobile development
-  - 🤳 Feel free to reach me, line: @rakazein | Instagram: @raka_za
+  -❤  Avid Laravel Lover
+  -✌  PHP and Dart Anthusiast
+  -✨ Web and Mobile development
+  -🤳 Feel free to reach me, line: @rakazein | Instagram: @raka_za
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
