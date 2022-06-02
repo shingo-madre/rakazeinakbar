@@ -1,11 +1,11 @@
-# Halo semua! 
-Perkenalkan nama saya **Raka Zein Akbar**.
+# Hi!
+My name is **Raka Zein Akbar**.
 
-Saya seorang **Web Developer Independen** yang saat ini berada di Semester 6 **Teknik Komputer ITS**.
+I'm a **Web Developer** That's currently in 6th semester at **ITS Computer Engineering**.
 
-Jika anda ingin tahu lebih lanjut, monggo follow linkedinku [Linkedin](https://www.linkedin.com/in/shingo-madre/) ku ya.
+If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/shingo-madre/) page.
 
-  -❤ Learning Backend Development\
+  -❤ Backend Development\
   -✌ Using Laravel and Express.js\
   -✨Bonus skills : UI/UX design using Figma\
   -🤳Feel free to reach me, line: @rakazein | Instagram: @raka_za
