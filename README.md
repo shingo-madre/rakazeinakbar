@@ -1,7 +1,7 @@
 # Hi!
 My name is **Raka Zein Akbar**.
 
-I'm a **Web Developer** That's currently in 6th semester at **ITS Computer Engineering**.
+I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
 
 If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/shingo-madre/) page.
 
