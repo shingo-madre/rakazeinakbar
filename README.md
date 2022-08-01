@@ -3,7 +3,7 @@ My name is **Raka Zein Akbar**.
 
 I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
 
-If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/shingo-madre/) page.
+If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/rakazeinakbar/) page.
 
   -❤ Backend Development\
   -✌ Using Laravel and Express.js\
