@@ -1,12 +1,12 @@
 # Hi!
 My name is **Raka Zein Akbar**.
 
-I'm a **Web Developer** That's currently in 7th semester at **ITS Computer Engineering**.
+I'm a **DevOps Enthusiast** That's currently in 8th semester at **ITS Computer Engineering**.
 
 If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/rakazeinakbar/) page.
 
-  -❤ Backend Development\
-  -✌ Using Laravel and Express.js\
+  -❤ DevOps Engineering, Digital Infrastructure Provisioning\
+  -✌ Using K8s, Docker, AWS, GCP, and Digital Ocean\
   -✨Bonus skills : UI/UX design using Figma\
   -🤳Feel free to reach me, line: @rakazein | Instagram: @raka_za
  
