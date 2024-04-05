@@ -1,7 +1,7 @@
 # Hi!
 My name is **Raka Zein Akbar**.
 
-I'm a **DevOps Enthusiast** That's currently in 8th semester at **ITS Computer Engineering**.
+I'm a **DevOps Enthusiast** and also a Fresh Graduate from **ITS Surabaya**.
 
 If you want to connect or get to know more about me, check out my [Linkedin](https://www.linkedin.com/in/rakazeinakbar/) page.
 
